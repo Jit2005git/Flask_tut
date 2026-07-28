@@ -1,1 +1,4 @@
 Phase 0: Foundations Before Flask
+**Goal:** Understand how the web works before using a framework
+
+- What is a framework? (Why Flask instead of raw Python)
