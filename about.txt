@@ -2,3 +2,8 @@ Phase 0: Foundations Before Flask
 **Goal:** Understand how the web works before using a framework
 
 - What is a framework? (Why Flask instead of raw Python)
+- HTTP vs HTTPS
+- Request/Response cycle
+- Status codes (200, 404, 500)
+- Browsers, URLs, and web servers
+- Installing Python, pip, venv, and VS Code
