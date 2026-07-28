@@ -7,3 +7,4 @@ Phase 0: Foundations Before Flask
 - Status codes (200, 404, 500)
 - Browsers, URLs, and web servers
 - Installing Python, pip, venv, and VS Code
+
