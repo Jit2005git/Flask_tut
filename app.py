@@ -19,4 +19,4 @@ def submit():
         return "You send data!"
     else:
         return "You are only viewing the form "
-    0
+    
