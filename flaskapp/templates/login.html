@@ -3,9 +3,16 @@
  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Login</title>
  </head>
  <body>
-    <h1>Welcome to My Flask App</h1>
+    <h1>Login</h1>
+    < form action="/submit" method="post">
+      <label>Username</label>
+      <input type="text" name="username" placeholder="Enter Username"><br><br>
+      <label>Password</label>
+      <input type="password" name="password" placeholder="Enter Password"><br><br>
+      <input type="submit" value="Login">
+   </form>
  </body>
  </html>
